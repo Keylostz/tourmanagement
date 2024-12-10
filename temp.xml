@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?><TourSchedules>
+    <TourSchedule>
+        <Date>2024-12-01</Date>
+        <MusicGroup>Band A</MusicGroup>
+        <City>New York</City>
+        <Venue>Venue 1</Venue>
+        <Organizer>Organizer 1</Organizer>
+        <OrganizerPN>12345</OrganizerPN>
+    </TourSchedule>
+</TourSchedules>
